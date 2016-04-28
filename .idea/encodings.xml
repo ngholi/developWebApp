@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/app/Http/Controllers/DepartmentController.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/Model/Department/DepartmentService.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/Model/Department/DepartmentServiceInterface.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/Model/Employee/EmployeeService.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/Model/Employee/EmployeeServiceInterface.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/department/department.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/department/edit.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/department/profile.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/emails" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/resources/views/emails/createAccount.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/employee/edit.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/employee/employee.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/employee/profile.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/layouts/app.blade.php" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
