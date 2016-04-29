@@ -32,7 +32,10 @@
                                         <label>Phòng ban</label>
                                         <select name="department_id" class="form-control">
                                             @foreach(\App\Model\Department\Department::all() as $department)
-                                                <option value="{{$department->id}}">{{$department->name}}</option>
+                                                <option value="{{$department->id}}"
+													@if(isset($employee) && $employee->department_id == $department->id)
+                                                         echo selected
+                                                     @endif>{{$department->name}}</option>
                                             @endforeach
                                         </select>
                                     </div>
